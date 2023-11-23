@@ -125,7 +125,8 @@ push it to 'README.md' and push it to the repository
             </body> 
         </ul>
     </body>
-</head>```
+</head>
+```
 
 ## kannan.html
 ```
