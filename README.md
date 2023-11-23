@@ -146,6 +146,12 @@ push it to 'README.md' and push it to the repository
 
 
 # Output:
+![Screenshot 2023-11-23 082350](https://github.com/23008112/Ex-04-webTech_imagemap/assets/138972470/33b0e393-5687-4a44-ba0a-43fcefa840ac)
+![Screenshot 2023-11-23 083152](https://github.com/23008112/Ex-04-webTech_imagemap/assets/138972470/9e52b380-ab16-400b-b20b-7c6ad87fdd61)
+![Screenshot 2023-11-23 083252](https://github.com/23008112/Ex-04-webTech_imagemap/assets/138972470/81105917-8057-471a-ac51-f6e63ceaeb5e)
+![Screenshot 2023-11-23 083333](https://github.com/23008112/Ex-04-webTech_imagemap/assets/138972470/16208459-79b1-49ee-b571-2a1439d67d41)
+![Screenshot 2023-11-23 083416](https://github.com/23008112/Ex-04-webTech_imagemap/assets/138972470/2f935dfe-b10b-4a5c-b92e-dbde9392da45)
+![Screenshot 2023-11-23 083501](https://github.com/23008112/Ex-04-webTech_imagemap/assets/138972470/022ba03e-ddde-47c3-b08d-26e68a37afcb)
 
 
 ## Result:
